@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nithin-Shiva-Bangera.
-- 👀 I’m interested in Machine Learning, AI, Data analytics.
-- 🌱 I’m currently working as a data engineer.
-- 💞️ I’m looking to collaborate on python.
+- 👀 I’m interested in Machine Learning, AI, Data Analytics.
+- 🌱 I’m currently working as a Data Engineer.
+- 💞️ I’m looking to collaborate on Python, SQL, Shell Projects.
 
 <!---
 Nithin-Shiva-Bangera/Nithin-Shiva-Bangera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

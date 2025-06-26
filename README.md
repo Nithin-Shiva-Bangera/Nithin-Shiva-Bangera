@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as a Data Engineer.<br>I’m interested in Machine Learning, AI, Data Analytics.<br>I’m looking to collaborate on Python, SQL, GCP Projects.
+I’m currently working as a Data Engineer.<br>I’m interested in Machine Learning, AI, Data Analytics.<br>I’m looking to collaborate on Python, SQL, DBT, Snowflake, Airflow, Spark, GCP Projects.
 
 
 ## 🌐 Socials:

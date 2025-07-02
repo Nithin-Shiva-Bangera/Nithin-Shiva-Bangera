@@ -12,8 +12,8 @@ I’m a Data Engineer passionate about transforming data into actionable insight
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-s-bangera/)  
-[![Gmail]((https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail))](mailto:nithinsbangera730@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://linkedin.com/in/nithin-s-bangera/)  
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail))](mailto:nithinsbangera730@gmail.com)
 
 ---
 

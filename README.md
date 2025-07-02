@@ -9,25 +9,11 @@ I’m a Data Engineer passionate about transforming data into actionable insight
 - 🌱 Always learning new technologies in the data space.
 - 💡 Fun fact: When I’m not coding, I enjoy photography and exploring new places!
 
----
-
-## 🚀 Featured Projects
-
-- [Project Name 1](#)  
-  *--------COMING SOON-----------*
-
-- [Project Name 2](#)  
-  *--------COMING SOON-----------*
-
-- [Project Name 3](#)  
-  *--------COMING SOON-----------*
-
----
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-s-bangera/)  
-✉️ nithinsbangera730 [at] gmail [dot] com
+[![Gmail]((https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail))](mailto:nithinsbangera730@gmail.com)
 
 ---
 
@@ -75,6 +61,22 @@ I’m a Data Engineer passionate about transforming data into actionable insight
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nithin-Shiva-Bangera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+---
+
+## 🚀 Featured Projects
+
+- [Project Name 1](#)  
+  *--------COMING SOON-----------*
+
+- [Project Name 2](#)  
+  *--------COMING SOON-----------*
+
+- [Project Name 3](#)  
+  *--------COMING SOON-----------*
+
+---
 
 ---
 
